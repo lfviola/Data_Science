@@ -1,2 +1,2 @@
 # Data_Science
-Data Science Portfolio
+Welcome to my Data Science repository. Here you can find some of the projects I participated, includind a 3rd place winning Hackathon
